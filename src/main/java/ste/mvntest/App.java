@@ -1,4 +1,4 @@
-package pom;
+package ste.mvntest;
 
 /**
  * Hello world!
